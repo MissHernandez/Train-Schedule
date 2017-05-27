@@ -1,0 +1,8 @@
+    .panel-body a {
+      word-break: break-all;
+    }
+
+    .jumbotron {
+    	background-color: #5E1313;
+    	color: white;
+    }
